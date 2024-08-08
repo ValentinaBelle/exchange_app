@@ -67,7 +67,6 @@ crypto_options = {
 # Список валюты
 base_options = {"USD": "Доллар США", "EUR": "Евро", "RUB": "Рубль"}
 
-
 # Создаем главное окно
 window = Tk()
 window.title("Курс криптовалюты - КРИПТ")
