@@ -1,6 +1,6 @@
 from tkinter import *  # Импортируем все
 from tkinter import ttk  # Библиотека для создания виджетов
-from tkinter import messagebox as mb  # Для всплывающих информациооных окон
+from tkinter import messagebox as mb  # Для всплывающих информационных окон
 import requests  # библиотека для работы с HTTP запросами для API CoinGecko
 import datetime  # для работы с датой и временем
 import time  # для работы с датой и временем
